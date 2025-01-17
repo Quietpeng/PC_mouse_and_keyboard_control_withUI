@@ -1,0 +1,9 @@
+numpy
+pandas
+pynput 
+pillow 
+opencv-python
+pyperclip
+screeninfo
+ctypes
+tkinter

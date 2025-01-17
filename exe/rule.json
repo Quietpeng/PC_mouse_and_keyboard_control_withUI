@@ -1,0 +1,15 @@
+[
+    {
+        "type": "mouse_move",
+        "position": [
+            1362,
+            1014
+        ],
+        "order": 1
+    },
+    {
+        "type": "mouse_click",
+        "clicks": 1,
+        "order": 2
+    }
+]
